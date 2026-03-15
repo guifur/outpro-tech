@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f6f8;
+    color: #1a1a1a;
+    font-family: system-ui, -apple-system, sans-serif;
+    margin: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+}
+
+h1 {
+    color: #0a2540;
+}
+
+a {
+    color: #1f5fbf;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

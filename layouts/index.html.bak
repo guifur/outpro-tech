@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>{{ .Site.Title }}</title>
+</head>
+
+<body>
+
+<h1>{{ .Site.Title }}</h1>
+
+<p>Corporate website prototype</p>
+
+<ul>
+<li><a href="/en/services/">Services</a></li>
+<li><a href="/en/about/">About</a></li>
+<li><a href="/en/contact/">Contact</a></li>
+</ul>
+
+</body>
+</html>

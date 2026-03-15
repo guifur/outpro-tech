@@ -1,18 +1,40 @@
 body {
-    background-color: #f4f6f8;
-    color: #1a1a1a;
-    font-family: system-ui, -apple-system, sans-serif;
     margin: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+    background: #f5f7fa;
+    color: #1c1c1c;
+}
+
+header {
+    background: #0a2540;
+    color: white;
+    padding: 20px 40px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 22px;
 }
 
 main {
-    max-width: 900px;
+    max-width: 1000px;
     margin: auto;
-    padding: 40px;
+    padding: 60px 30px;
 }
 
-h1 {
-    color: #0a2540;
+.hero {
+    background: white;
+    padding: 60px;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
 }
 
 a {
